@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/deevmath/5d5e0ab90914c2b15e613f60fd3e77de/raw/5b2b755a43eca431960ecd34f542d4733da9daea/cardgihub.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/deevmath/5d5e0ab90914c2b15e613f60fd3e77de/raw/5b2b755a43eca431960ecd34f542d4733da9daea/cardgihub.svg"/> -->
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Silva</h1>
 
