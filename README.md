@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gist.github.com/deevion/a3527a4e7d27f3319af0c93256cc6bca"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/deevion/a3527a4e7d27f3319af0c93256cc6bca/raw/ac5a1110e97d43b60d6b7eca2fd3221fdb112271/githubcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Silva</h1>
 
